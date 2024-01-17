@@ -1,0 +1,47 @@
+#header {
+color: aliceblue;
+background-color: #297373;
+margin-top: 0%;
+padding-top: 2%;
+padding-bottom: 2%;
+margin-bottom: 10%;
+font-size: larger;
+font-weight: bolder;
+font-style: normal;
+font-family: 'Times New Roman', Times, serif;
+}
+#btn {
+background-color: black;
+margin-top: 1%;
+margin-left: 80%;
+padding: 2%;
+color: aliceblue;
+border-radius: 10%;
+}
+#form-container {
+  background-color:#E6E6E6 ;
+  border: 5px solid;
+  border-color: antiquewhite;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid antiquewhite;
+  border-radius: 4px;
+}
+#sendbtn {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
